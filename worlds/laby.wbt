@@ -1,0 +1,221 @@
+#VRML_SIM R2022a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.1803590340799228 -0.1291607796133186 0.9750836435072823 4.360760532271254
+  position -0.12390199415713277 2.8921137476114747 3.053389779678818
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  translation 0.0158472 -0.0913656 0.28
+  rotation 0 0 -1 0.01309
+  floorSize 8 8
+  wallHeight 0.5
+}
+WoodenBox {
+  translation 2.83791 0.984415 0.3
+  rotation 0 0 1 -1.5707953071795862
+  name "wooden box(30)"
+  size 0.3 1.3 0.3
+}
+WoodenBox {
+  translation 2.83791 0.984415 0.3
+  rotation 0 0 1 -1.5707953071795862
+  name "wooden box(29)"
+  size 0.3 1.3 0.3
+}
+WoodenBox {
+  translation 2.33692 1.99291 0.3
+  rotation 0 0 1 -1.5707953071795862
+  name "wooden box(28)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 3.42074 0.218648 0.3
+  rotation 0 0 1 0.0130904
+  name "wooden box(27)"
+  size 0.3 1.3 0.3
+}
+WoodenBox {
+  translation 2.33692 1.99291 0.3
+  rotation 0 0 1 0.019636
+  name "wooden box(26)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 0.300753 3.02748 0.3
+  name "wooden box(25)"
+  size 0.3 1.5 0.3
+}
+WoodenBox {
+  translation -0.695721 2.76483 0.3
+  name "wooden box(24)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 2.37146 2.9794 0.3
+  rotation 0 0 -1 1.5708
+  name "wooden box(23)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 1.29543 1.15922 0.3
+  name "wooden box(22)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 1.45632 0.0515439 0.3
+  rotation 0 0 -1 1.55771
+  name "wooden box(21)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation -2.29452 0.763254 0.3
+  name "wooden box(20)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation -3.61023 1.43502 0.3
+  rotation 0 0 1 -1.5707953071795862
+  name "wooden box(19)"
+  size 0.3 0.7 0.3
+}
+WoodenBox {
+  translation -3.58453 -3.32282 0.3
+  rotation 0 0 1 -1.5707953071795862
+  name "wooden box(18)"
+  size 0.3 0.7 0.3
+}
+WoodenBox {
+  translation -2.17977 -3.54019 0.3
+  rotation 0 0 -1 3.12196
+  name "wooden box(17)"
+  size 0.3 1 0.3
+}
+WoodenBox {
+  translation -1.62037 -1.183 0.3
+  rotation 0 0 1 -1.5707953071795862
+  name "wooden box(16)"
+  size 0.3 1.6 0.3
+}
+WoodenBox {
+  translation -1.58669 -0.264746 0.3
+  rotation 0 0 1 -1.5707953071795862
+  name "wooden box(14)"
+  size 0.3 1.6 0.3
+}
+WoodenBox {
+  translation -1.43487 0.756774 0.3
+  name "wooden box(15)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation -0.66231 0.684373 0.3
+  name "wooden box(13)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 0.391351 0.390401 0.3
+  name "wooden box(12)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation -1.55846 -2.11279 0.3
+  rotation 0 0 -1 1.55116
+  name "wooden box(11)"
+  size 0.3 1.5 0.3
+}
+WoodenBox {
+  translation -3.18174 -2.30773 0.3
+  name "wooden box(10)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation -1.59231 -3.19374 0.3
+  rotation 0 0 -1 1.5708
+  name "wooden box(9)"
+  size 0.3 1.8 0.3
+}
+WoodenBox {
+  translation 0.744742 -1.74303 0.3
+  rotation 0 0 1 1.54462
+  name "wooden box(8)"
+  size 0.3 1.4 0.3
+}
+WoodenBox {
+  hidden linearVelocity_0 0.0003979675219921829 3.275922333008071e-05 0.000323911236940595
+  hidden angularVelocity_0 -0.0002183905851067197 0.002653065196723128 2.7895376773599667e-08
+  translation -0.5901891941627764 -2.1333637212270333 0.14956625451364733
+  rotation 0.00032326638624315763 -0.006002224537990345 0.9999819342365335 0.05665018147545278
+  name "wooden box(7)"
+  size 0.3 2.3 0.3
+  mass 1
+}
+WoodenBox {
+  translation 1.45844 -2.76386 0.3
+  name "wooden box(6)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 0.579624 -3.1921 0.3
+  rotation 0 0 -1 0.00654137
+  name "wooden box(5)"
+  size 0.3 1.4 0.3
+}
+WoodenBox {
+  translation -3.15507 0.449792 0.3
+  name "wooden box(4)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 1.24559 -0.899844 0.3
+  rotation 0 0 -1 1.59043
+  name "wooden box(3)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 3.23716 -2.13208 0.3
+  name "wooden box(2)"
+  size 0.3 2.3 0.3
+}
+WoodenBox {
+  translation 2.36234 -1.99636 0.3
+  name "wooden box(1)"
+  size 0.3 2.3 0.3
+}
+Solid {
+  translation 0 0 0.3
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0 1 0
+      }
+      geometry Plane {
+        size 0.5 0.5
+      }
+    }
+  ]
+  name "start"
+}
+Solid {
+  translation 3.75059 -3.79571 0.3
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 1 0 0
+      }
+      geometry Plane {
+        size 0.5 0.5
+      }
+    }
+  ]
+  name "end"
+}
+WoodenBox {
+  translation 3.11039 -3.29432 0.3
+  rotation 0 0 -1 1.5577
+  size 0.3 1.8 0.3
+}
